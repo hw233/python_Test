@@ -5,3 +5,5 @@ print "hello mango"
 
 print "aaaaaaaa"
 print "bbbbbbbb"
+
+print "remote add two"
