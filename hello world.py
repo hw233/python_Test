@@ -1,6 +1,6 @@
 print "hello remote by remote"
 print "add new line"
-print "hello remote adfadfafd"
+print "hello remote hello"
 print "hello mango"
 
 print "aaaaaaaa"
