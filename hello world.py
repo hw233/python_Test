@@ -3,8 +3,8 @@ print "add new line"
 print "hello remote adfadfafd"
 print "hello mango"
 
-print "aaaa"
-print "bbbb"
+print "aaaaaaaa"
+print "bbbbbbbb"
 
 
 adfasdfljasfdj
